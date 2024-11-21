@@ -1,0 +1,4 @@
+*.log
+!ali.log
+ggg/
+txt.txt
